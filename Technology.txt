@@ -5,6 +5,9 @@ Welcome in Technology
 2.Servlet
 4.Spring
 
-
+5.hibernate
+6.js
 
 thanks 
+
+Added in branch
