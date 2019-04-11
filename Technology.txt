@@ -3,5 +3,4 @@ Welcome in Technology
 
 1.Core java
 2.Servlet
-3.JSP
 4.Spring
